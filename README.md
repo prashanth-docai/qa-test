@@ -40,3 +40,22 @@ npm start
   - Field cannot be empty.
 
 
+** Install Cypress
+
+```sh
+npm install cypress
+```
+
+** Run tests
+
+1. Start app with 
+
+```sh
+npm install
+npm start
+```
+2. Start Cypress tests with:
+
+```sh
+npm run cypress:open
+```
